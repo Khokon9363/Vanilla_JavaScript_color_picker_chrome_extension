@@ -1,0 +1,15 @@
+{
+  "name": "Vanilla JavaScript Chrome Extension!",
+  "description": "Vanilla JavaScript Chrome Extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  },
+ "icons": {
+    "16": "doctor.png",
+    "32": "doctor.png",
+    "48": "doctor.png",
+    "128": "doctor.png"
+  }
+}
